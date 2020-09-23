@@ -5,5 +5,5 @@ The model used is not currently in this repo because the file is too large, it c
 the created file "200p-model.h5" which is then called when classifying images. 
 
 Looking back at the data (from https://www.kaggle.com/grassknoted/asl-alphabet) the images are not of the best quality as some signs are 
-positioned incorrectly or have poor lighting. This was more of a proof-of-concept than anythigng else and completed for a software engineering
+positioned incorrectly or have poor lighting. This was more of a proof-of-concept than anything else and completed for a software engineering
 project for school (@CWcomptech on Twitter)
